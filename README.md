@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nikheel V. Savant
 
-🎯 **Senior Software Engineer @ Meta** | Formerly @ Apple, Tesla, Robert Bosch
+🎯 **Senior Software Engineer @ Meta** | Formerly @ Apple, Tesla, Robert Bosch 
 🛰️ **Expert in Bluetooth & Wireless Systems** | 🧠 **IEEE Author** | 🎤 **Droidcon NYC Speaker 2025**
 
 ---
